@@ -3,6 +3,52 @@ Introduction to the git commands. In this guide, we will explore the functionali
 <br/> <br/>
 
 
+## Table of Contents
+- [What is Git?](#what-is-git)
+- [Prerequisite](#prerequisite)
+- [Check Git Version](#check-git-version)
+- [Configuration - First Time Git Setup](#configuration---first-time-git-setup)
+  - [Set Default User](#set-default-user)
+  - [Set Default Editor](#set-default-editor)
+  - [Handle Line Endings (Detail)](#handle-line-endings-detail)
+  - [Set Default Branch Name](#set-default-branch-name)
+  - [Check Settings](#check-settings)
+- [Get Help](#get-help)
+- [Initialize a Repository in an Existing Directory](#initialize-a-repository-in-an-existing-directory)
+- [Add Local Git Repository to GitHub](#add-local-git-repository-to-github)
+- [Clone an Existing Repository](#clone-an-existing-repository)
+- [Check the Status of Files](#check-the-status-of-files)
+- [Track New Files](#track-new-files)
+- [Remove Files from Staging Area](#remove-files-from-staging-area)
+- [Ignore Files from Track](#ignore-files-from-track)
+- [Move Files](#move-files)
+- [First Commit](#first-commit)
+- [Check Commit Message](#check-commit-message)
+- [Show the Changes in Files](#show-the-changes-in-files)
+- [Fetch Changes to Git Repository from Remote](#fetch-changes-to-git-repository-from-remote)
+- [Fetch Changes to Working Directory from Remote](#fetch-changes-to-working-directory-from-remote)
+- [Push to Remote](#push-to-remote)
+- [Inspect a Remote](#inspect-a-remote)
+- [Create Branch for Feature or Issue](#create-branch-for-feature-or-issue)
+- [Set Branch Upstream and Push](#set-branch-upstream-and-push)
+- [Check Branch](#check-branch)
+- [Switch Branches](#switch-branches)
+- [Merge a Branch](#merge-a-branch)
+- [Check Merged Branches](#check-merged-branches)
+- [Delete a Branch](#delete-a-branch)
+- [Delete a Remote Branch](#delete-a-remote-branch)
+- [Git Stash](#git-stash)
+  - [Stash All Files](#stash-all-files)
+  - [Stash All Files with Message](#stash-all-files-with-message)
+  - [Stash Untracked Files](#stash-untracked-files)
+  - [Stash Specific File](#stash-specific-file)
+  - [Stash Specific File with Message](#stash-specific-file-with-message)
+  - [Show Stash List](#show-stash-list)
+  - [Restore All Stashes](#restore-all-stashes)
+  - [Restore Specific Stash](#restore-specific-stash)
+  - [Delete All Stashes](#delete-all-stashes)
+
+
 ## **What is Git?**
 Git is an open-source distributed version control system.
 
