@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=M+PLUS+1+Code&pause=1000&color=f75c7e&size=22&center=true&vCenter=true&width=444&height=50&lines=I+am+a+Laravel+Software+Engineer.;Active+Learner/Researcher.;Love+to+learn+new+stuffs.;"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=M+PLUS+1+Code&pause=1000&color=f75c7e&size=22&center=true&vCenter=true&width=444&height=50&lines=I+am+a+Laravel+Software+Engineer.;Active+Learner/Researcher.;Always+love+to+learn+new+things.;"/>
 </p>
 
 
@@ -47,7 +47,7 @@ I have experience using these tools and languages. <br> <br>
 
 <br><br>
 
-### **Extras**
+### <img src="./assets/gifs/folder.gif" width="20" alt="Contact" /> **Extras**
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
