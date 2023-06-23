@@ -1,13 +1,13 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=codesbyahsen&label=Profile+Views&color=0e75b6&style=flat" alt="codesbyahsen" /> </p>
 
-### Hey <img src="./assets/images/handwave.gif" width="19" />
+### **Hey** <img src="./assets/gifs/handwave.gif" width="19" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=M+PLUS+1+Code&pause=1000&color=f75c7e&size=22&center=true&vCenter=true&width=444&height=50&lines=I+am+a+Laravel+Software+Engineer.;Active+Learner/Researcher.;Love+to+learn+new+stuffs.;">
 </p>
 
 
-### <img src="./assets/images/hacker.gif" width="38" /> About me
+### <img src="./assets/gifs/hacker.gif" width="39" /> **About Myself**
 
 <samp>
 I’m currently learning React & Vue <br>
@@ -20,7 +20,7 @@ Snapchat: <a href="https://www.snapchat.com/add/ahsentimeline" target="_blank">a
 
 <br><br>
 
-### <img src="./assets/images/code-element.gif" width="22" /> Skills
+### <img src="./assets/gifs/code-element.gif" width="21" /> **Skills**
 
 <samp>
 I have experience using these tools and languages. <br> <br>
