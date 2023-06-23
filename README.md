@@ -3,11 +3,15 @@
 ### **Hey** <img src="./assets/gifs/handwave.gif" width="19" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=M+PLUS+1+Code&pause=1000&color=f75c7e&size=22&center=true&vCenter=true&width=444&height=50&lines=I+am+a+Laravel+Software+Engineer.;Active+Learner/Researcher.;Love+to+learn+new+stuffs.;">
+  <a href="https://github.com/codesbyahsen">
+    <img src="./assets/gifs/ahsen-alee.png" alt="codesbyahsen" />
+  </a>
+
+  <img src="https://readme-typing-svg.demolab.com/?font=M+PLUS+1+Code&pause=1000&color=f75c7e&size=22&center=true&vCenter=true&width=444&height=50&lines=I+am+a+Laravel+Software+Engineer.;Active+Learner/Researcher.;Love+to+learn+new+stuffs.;"/>
 </p>
 
 
-### <img src="./assets/gifs/hacker.gif" width="39" /> **About Myself**
+### <img src="./assets/gifs/hacker.gif" width="40" alt="About" /> **About**
 
 <samp>
 I’m currently learning React & Vue <br>
@@ -20,7 +24,7 @@ Snapchat: <a href="https://www.snapchat.com/add/ahsentimeline" target="_blank">a
 
 <br><br>
 
-### <img src="./assets/gifs/code-element.gif" width="21" /> **Skills**
+### <img src="./assets/gifs/code-element.gif" width="20" alt="Skills" /> **Skills**
 
 <samp>
 I have experience using these tools and languages. <br> <br>
@@ -43,6 +47,21 @@ I have experience using these tools and languages. <br> <br>
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
+<br><br>
+
+### <img src="./assets/gifs/handshake.gif" width="46" alt="Contact" /> **Let's Connect**
+
+<p align="left">
+<!-- Linkedin -->
+<a href="https://linkedin.com/in/ahsentimeline" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  ahsentimeline-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+</a>
+&nbsp;
+<!-- Twitter -->
+<a href="https://twitter.com/ahsentimeline" target="_blank">
+<img src="https://img.shields.io/badge/twitter:  ahsentimeline-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+</a>
+</p>
 
 <samp>It's a pleasure to make your acquaintance. 😊</samp>
 
