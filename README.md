@@ -51,6 +51,8 @@ I have experience using these tools and languages. <br> <br>
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
+![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+
 <br><br>
 
 ### <img src="./assets/gifs/handshake.gif" width="46" alt="Contact" /> **Let's Connect**
