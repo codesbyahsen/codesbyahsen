@@ -47,6 +47,9 @@ Introduction to the git commands. In this guide, we will explore the functionali
   - [Restore All Stashes](#restore-all-stashes)
   - [Restore Specific Stash](#restore-specific-stash)
   - [Delete All Stashes](#delete-all-stashes)
+- [Git Reset](#git-reset)
+  - [Git Reset Soft](#git-reset-soft)
+  - [Git Reset Hard](#git-reset-hard)
 
 
 ## **What is Git?**
@@ -482,4 +485,22 @@ git stash pop stash@{0}
 #### **Delete All Stashes**
 ```
 git stash clear
+```
+<br/><br/>
+
+### **Git Reset**
+The git reset command is used to move the `HEAD` (the current branch pointer) and, optionally, the staged changes in the index, to a specific commit.
+
+#### **Git Reset Soft**
+`git reset --soft` is used to move the `HEAD` and the current branch pointer to a specific commit, but it does not change the working directory or the staged changes in the index. 
+```
+git reset --soft <desired_commit_hash>
+```
+<br/>
+
+
+#### **Git Reset Hard**
+`git reset --hard` is used to move the `HEAD`, the current branch pointer, and the working directory to a specific commit, and it forcefully discards all changes and staged modifications that are not part of that commit
+```
+git reset --hard <desired_commit_hash>
 ```
