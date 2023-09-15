@@ -445,7 +445,7 @@ git stash push <filename>
 
 #### **Stash Specific File with Message**
 ```
-git stash push -m "Message here"
+git stash push -m "Message here" <filename>
 ```
 <br/>
 
