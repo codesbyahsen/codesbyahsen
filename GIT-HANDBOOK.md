@@ -50,6 +50,9 @@ Introduction to the git commands. In this guide, we will explore the functionali
 - [Git Reset](#git-reset)
   - [Git Reset Soft](#git-reset-soft)
   - [Git Reset Hard](#git-reset-hard)
+- [Git Remote Setup with SSH Key](#git-remote-setup-with-ssh-key)
+  - [Setup in Linux (Ubuntu)](#setup-in-linux-ubuntu)
+  - [Setup in Windows](#setup-in-windows)
 
 
 ## **What is Git?**
@@ -503,4 +506,52 @@ git reset --soft <desired_commit_hash>
 `git reset --hard` is used to move the `HEAD`, the current branch pointer, and the working directory to a specific commit, and it forcefully discards all changes and staged modifications that are not part of that commit
 ```
 git reset --hard <desired_commit_hash>
+```
+<br/><br/>
+
+### **Git Remote Setup with SSH Key**
+`SSH` is stand for _Secure Shell_ and primarily used for secure remote access to servers and devices.
+<br/>
+
+
+#### **Setup in Linux (Ubuntu)**
+Ensure that all `SSH` key creation operations are conducted within this folder.
+```
+cd ~/.ssh
+```
+
+Generate `SSH` key pairs using the ssh-keygen command:
+```
+ssh-keygen -o -t rsa -C "ahsenalee@example.com"
+```
+
+To view the `SSH` key from the file use `cat` command
+```
+cat id_rsa.pub
+```
+<br/>
+
+
+#### **Setup in Windows**
+Generate `SSH` key
+```
+ssh-keygen -o -t rsa -C "ahsenalee@example.com"
+```
+The Windows `SSH` keys live in the `.ssh` folder under the current user’s home directory.
+
+To open in shell use following command `cd <folder_location>`:
+```
+cd C:\Users\Owner\.ssh
+```
+
+To view the `SSH` key from the file use `type` command for _cmd_ or `Get-Content` for _powershell_
+
+CMD
+```
+type id_rsa.pub
+```
+
+PowerShell
+```
+Get-Content id_rsa.pub
 ```
